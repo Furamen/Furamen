@@ -1,4 +1,4 @@
-<img alt="banner" src="twibanner" width="100%">
+<img alt="banner" src="twibanner.jpeg" width="100%">
 
 <span>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=fruuurf&title_color=0089ff&text_color=ffffff&bg_color=202020&border_radius=15&border_color=808080" height="150px">
